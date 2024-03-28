@@ -70,6 +70,16 @@ hash = "5f4f18ca1c40a63bdfe0d22f037603900df11d9539f2a7582b335f3d2b7403aa"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
 metafile = true
@@ -137,16 +147,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
 
 [[files]]
