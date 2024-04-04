@@ -1,13 +1,13 @@
-name = "smp modpack"
-author = "Gurkan <hello@gurkz.me>"
+name = "smp"
+author = "Gurkan"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2c2cde6deeae3ad51a8ec55f8e23997ef8418e1765e9ebeecfc6470fc712c4a9"
+hash = "a325e22043effafa761278f6145c315e69341f89babb376a391ed564e60c8c87"
 
 [versions]
-fabric = "0.15.7"
-minecraft = "1.20.1"
+fabric = "0.15.9"
+minecraft = "1.20.4"
