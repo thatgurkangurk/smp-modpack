@@ -1,13 +1,13 @@
 name = "EpheroLib"
-filename = "EpheroLib-1.20.1-FABRIC-1.2.0.jar"
+filename = "EpheroLib-FABRIC-1.2.0-1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5a54bffb127857fe0d62a8708c5789db49ad71fd"
+hash = "a584f2929a190d5195c5ad1ef3c8ab3afaf008ab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4949797
+file-id = 4950007
 project-id = 885449
