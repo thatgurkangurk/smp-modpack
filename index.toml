@@ -25,6 +25,21 @@ hash = "fab27ac9755c954e411294e947ded866f78462ab905e360964e419a6f270340f"
 metafile = true
 
 [[files]]
+file = "mods/blossomback.pw.toml"
+hash = "841d910d0f492d49d33606cca19c3efe3e96130f7c1a80c2b6b9d598e4dbc7b3"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "0507dcdd8b12740725491bce15d8f1eaa6974b6878f442401465790e0955361e"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "74b968b96c7a39bea56d3ac839c7dcfaa6d8116be5d1128562680bc4ce3c6377"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "868db465e6635a883d1b692d56164c1c14d687d960a93e6f9d9fd74c1cd43f2e"
 metafile = true
