@@ -5,11 +5,6 @@ file = "LICENSE"
 hash = "22711f384d3443a30000d7829ff71f09745995c935bfd2e5f730884a4aa557a9"
 
 [[files]]
-file = "mods/animated-doors.pw.toml"
-hash = "143eef5454cce306734d682d61351210dd3d195ff6986310b9cfa7eb47c8e038"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
