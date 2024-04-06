@@ -20,21 +20,6 @@ hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
 
 [[files]]
-file = "mods/blossomback.pw.toml"
-hash = "841d910d0f492d49d33606cca19c3efe3e96130f7c1a80c2b6b9d598e4dbc7b3"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "0507dcdd8b12740725491bce15d8f1eaa6974b6878f442401465790e0955361e"
-metafile = true
-
-[[files]]
-file = "mods/blossomtpa.pw.toml"
-hash = "74b968b96c7a39bea56d3ac839c7dcfaa6d8116be5d1128562680bc4ce3c6377"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
@@ -107,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "447feeaefb23f02df86416a958e316d90a8cda0b240affc520cd8698a3440170"
 metafile = true
 
 [[files]]
