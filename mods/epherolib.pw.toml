@@ -9,8 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-<<<<<<< HEAD
 file-id = 4950007
-=======
-file-id = 4949797
 project-id = 885449

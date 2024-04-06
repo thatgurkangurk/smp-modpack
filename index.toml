@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/epherolib.pw.toml"
-hash = "55968ee348676ca70e5d400ffeadc96317bf6a1e54e62fcd7ed98f153e89a18d"
+hash = "4cf7a453a6cc82b23809d0c581cb632fb369bff9b0f0d39416859fb246d4be8a"
 metafile = true
 
 [[files]]
