@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
+hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/epherolib.pw.toml"
-hash = "4cf7a453a6cc82b23809d0c581cb632fb369bff9b0f0d39416859fb246d4be8a"
+hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
 metafile = true
 
 [[files]]
@@ -107,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "447feeaefb23f02df86416a958e316d90a8cda0b240affc520cd8698a3440170"
 metafile = true
 
 [[files]]
