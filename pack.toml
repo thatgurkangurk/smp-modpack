@@ -1,13 +1,17 @@
-name = "smp"
-author = "Gurkan"
+name = "smp modpack"
+author = "Gurkan <hello@gurkz.me>"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "8d314452a3fa8875b94baf3dbf3826ba1ca0af4ddbd652785a85b64b95feba34"
+=======
+hash = "2c2cde6deeae3ad51a8ec55f8e23997ef8418e1765e9ebeecfc6470fc712c4a9"
+>>>>>>> parent of d30f6df (reset and change modpack)
 
 [versions]
-fabric = "0.15.9"
-minecraft = "1.20.4"
+fabric = "0.15.7"
+minecraft = "1.20.1"
