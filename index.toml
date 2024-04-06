@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "22711f384d3443a30000d7829ff71f09745995c935bfd2e5f730884a4aa557a9"
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/architectury-api.pw.toml"
-hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
-=======
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
@@ -16,7 +12,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "fd0b983347938ccecb95ce80691b76d7016531e02c59733f1c47466821030189"
->>>>>>> parent of d30f6df (reset and change modpack)
 metafile = true
 
 [[files]]
@@ -45,18 +40,8 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/croptopia.pw.toml"
-hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
-=======
 file = "mods/chunks-fade-in.pw.toml"
 hash = "f8f8cea05fc3ed93239749877488e696bd67b4a42054f11dba752c9afc106393"
->>>>>>> parent of d30f6df (reset and change modpack)
 metafile = true
 
 [[files]]
@@ -91,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
+hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
 metafile = true
 
 [[files]]
@@ -101,12 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/epherolib.pw.toml"
-hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
-metafile = true
-
-[[files]]
-file = "mods/epherolib.pw.toml"
-hash = "4cf7a453a6cc82b23809d0c581cb632fb369bff9b0f0d39416859fb246d4be8a"
+hash = "55968ee348676ca70e5d400ffeadc96317bf6a1e54e62fcd7ed98f153e89a18d"
 metafile = true
 
 [[files]]
@@ -125,13 +105,8 @@ hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/fabrictailor.pw.toml"
-hash = "92d6b1785b947ec4c6998841b72eae58cb6323e59bd2dfe02f7ec848c244acd8"
-=======
 file = "mods/fallingleaves.pw.toml"
 hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
->>>>>>> parent of d30f6df (reset and change modpack)
 metafile = true
 
 [[files]]
@@ -141,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveportals.pw.toml"
-hash = "f1eda9b361fe9da79f0924bcd73a6e823c35ec9e349c95ee2d6cdf4ef3306fbd"
+hash = "bd8506be42948470dc2ba19c93652f89345666c6a9e9a9f9fc97442bb6788ace"
 metafile = true
 
 [[files]]

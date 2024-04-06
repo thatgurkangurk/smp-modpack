@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "8d314452a3fa8875b94baf3dbf3826ba1ca0af4ddbd652785a85b64b95feba34"
-=======
-hash = "2c2cde6deeae3ad51a8ec55f8e23997ef8418e1765e9ebeecfc6470fc712c4a9"
->>>>>>> parent of d30f6df (reset and change modpack)
+hash = "f64b2ea4d605f35c3769ba249b8d79f383a78b28afc7b10dc50f1243b29a2c6f"
 
 [versions]
 fabric = "0.15.7"
