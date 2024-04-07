@@ -20,6 +20,11 @@ hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "938dedd6b8da990018f2e4df0bee0c63c676eaef9673d6390e2def255a04bd48"
 metafile = true
@@ -70,6 +75,11 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "d2c368240b0b5b853b080a9664f6a92d82871b6d1dc42b7ed92f6e99184bde22"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
 metafile = true
@@ -91,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/harvest.pw.toml"
+hash = "9bd95b6442bdcce851ee09cfd90fd36ce5ad1303c3f2d38a4dfdeabf620a26df"
 metafile = true
 
 [[files]]
@@ -185,6 +200,11 @@ hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "f646ace7d1ba816e9753d98da2acb72bec0f59510ca7040709caea312e6f930b"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
@@ -210,6 +230,11 @@ hash = "65f347a0032d625a3911a27bf504f894670966e4c00dd31a0f3b01e27043cc9e"
 metafile = true
 
 [[files]]
+file = "mods/veinminer.pw.toml"
+hash = "23f12e1242468eae49d8c3fd5a4d8b2cd5574484425cda50a4e57c173368d739"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
 metafile = true
@@ -217,4 +242,9 @@ metafile = true
 [[files]]
 file = "mods/woods-and-mires.pw.toml"
 hash = "c1e8dfa688f4f838c4b870dbdbe724119aed0002639c7b693a8accae957add32"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "de68f7b30a409583c7f2fa464465950a5ec12cb99fcdd186404765cbe8f4bbcc"
 metafile = true
