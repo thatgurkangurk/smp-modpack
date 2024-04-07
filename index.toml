@@ -50,6 +50,11 @@ hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
