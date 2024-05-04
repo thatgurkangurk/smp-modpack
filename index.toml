@@ -20,11 +20,6 @@ hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "033fc4edb3128901ba49baf1a50cd5fa2bdbc56ff839916709211e08f33ca1b3"
 metafile = true
@@ -32,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "52fd2794bbd749addd81265691112f4f9d6b8ce9c5e7993485fed18147c91b70"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "729057e66f57767363686a0d3c3f737903045d035c607bd56187c03bc6859dcd"
 metafile = true
 
 [[files]]
