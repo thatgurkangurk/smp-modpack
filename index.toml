@@ -245,6 +245,11 @@ hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
 metafile = true
 
 [[files]]
+file = "mods/wicked-paintings.pw.toml"
+hash = "20e77fec8c73ffa8f30362683f03a78cce4f2fd68f8523446d8ddbe9776c466c"
+metafile = true
+
+[[files]]
 file = "mods/woods-and-mires.pw.toml"
 hash = "c1e8dfa688f4f838c4b870dbdbe724119aed0002639c7b693a8accae957add32"
 metafile = true
