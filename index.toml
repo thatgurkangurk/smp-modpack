@@ -130,6 +130,11 @@ hash = "9bd95b6442bdcce851ee09cfd90fd36ce5ad1303c3f2d38a4dfdeabf620a26df"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "bd8506be42948470dc2ba19c93652f89345666c6a9e9a9f9fc97442bb6788ace"
 metafile = true
@@ -242,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
-metafile = true
-
-[[files]]
-file = "mods/wicked-paintings.pw.toml"
-hash = "20e77fec8c73ffa8f30362683f03a78cce4f2fd68f8523446d8ddbe9776c466c"
 metafile = true
 
 [[files]]
