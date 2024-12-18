@@ -75,9 +75,8 @@ hash = "7a110667e22c5ff36811809c9b2bce204f78bbfbe3ff95fd5780bdc628c34137"
 metafile = true
 
 [[files]]
-file = "mods/htm.pw.toml"
-hash = "d5adb20d8b2002e2662742c919f9d0b43ab2c3badb576c1189632c38a33beb15"
-metafile = true
+file = "mods/htm-1.1.15.jar"
+hash = "6af7f3066e9244a0ebe6f552e8bc61ccc246b1a8702f1cdf5a58052e1b605124"
 
 [[files]]
 file = "mods/ledger.pw.toml"
