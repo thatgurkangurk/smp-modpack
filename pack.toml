@@ -1,0 +1,13 @@
+name = "gurkz SMP modpack"
+author = "Gurkan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "55ce1c873be56239bac7603d9d80d57117e7383bdc043c712241c7bea4cbd8b3"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"
