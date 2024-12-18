@@ -3,3 +3,123 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "c66226d93733722f31b34a9a36ec5c42608f0fef75abef854e41310e1a8a7c94"
+
+[[files]]
+file = "mods/blossomback.pw.toml"
+hash = "ad61a5354dbc02e36655631a63ad6466bcccadc33a6dac658c5d66e5dacdf4cb"
+metafile = true
+
+[[files]]
+file = "mods/blossomenderchest.pw.toml"
+hash = "a63dd9eb2ebe0ddf420bf9e2a9c9bea6f93a3678de2f018cadeea94fe17c6b3d"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "1b6cd1d8f0ecdee63feb26a3d39d8194b5e713b9e2a4e5b021d17569c430ae9c"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "dee34336edeb00799560138a92ccd6444f81c529a1cc3f24c7d22c1db4cb78d3"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "25b45fbe068249c091b5d99ebebfb4bef65e7df575df737fb3e63e50888236e3"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "96d76a6543dcb3a6a9ac65f19323deb7af3b20ea6b6807acafd27ee6683db935"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "d28a47cda29c0cf273387c254b4236f0ad65f35c9c90646e79b9faee158d5af6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "099583c94720ec8089dd1a4fdbe9c475ed0764dcbba904e04dc2459089077783"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "df22e7d2e96d87a5b4a6467a9345eeea5365fe57763f56aaa1d3944570b51d38"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "38b0568f23ae1f8e6138ef1c0f13b487103b345068c57b99723e4dfc5358a885"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "c26a7aadec9451a91676302980b284cf050ceb2ac7ff6d7ace68b9423d6beb9c"
+metafile = true
+
+[[files]]
+file = "mods/gurkans-lib.pw.toml"
+hash = "7a110667e22c5ff36811809c9b2bce204f78bbfbe3ff95fd5780bdc628c34137"
+metafile = true
+
+[[files]]
+file = "mods/htm.pw.toml"
+hash = "d5adb20d8b2002e2662742c919f9d0b43ab2c3badb576c1189632c38a33beb15"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "c65c6af0b1ea619a0736c8de3c3126afa37145a60b7d5c0dd0cffa7ec353f754"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "647bf578621157f90070cde0fc4c9a386327a94cb0685f0d907662a8c82e4064"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
+metafile = true
+
+[[files]]
+file = "mods/smite-command.pw.toml"
+hash = "977befcc4da4da70519c2128b2b2b91afaa19e4ad08234233f0bef0f4d796165"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "d18a033e7b343fd5e46fee970ba96b42b64647b9bad1301b94f3c1011d782826"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "0a24e15aae666832731b6b1a5d9cccd98a9a26728afebb9bb96f97fb13beee8b"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "381054f652fffcbf77668c2786a576306d0db1a7e32ac79b3b0ddfa8c3b93cc8"
+metafile = true
