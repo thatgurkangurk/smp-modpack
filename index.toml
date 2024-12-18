@@ -109,6 +109,11 @@ hash = "977befcc4da4da70519c2128b2b2b91afaa19e4ad08234233f0bef0f4d796165"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "078bcdf161d4c7d7a278fc3d65072bf367f4fad882d3a53faf2cd338d1731193"
+metafile = true
+
+[[files]]
 file = "mods/universal-shops.pw.toml"
 hash = "d18a033e7b343fd5e46fee970ba96b42b64647b9bad1301b94f3c1011d782826"
 metafile = true
