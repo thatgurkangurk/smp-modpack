@@ -132,3 +132,8 @@ metafile = true
 file = "mods/veinminer.pw.toml"
 hash = "381054f652fffcbf77668c2786a576306d0db1a7e32ac79b3b0ddfa8c3b93cc8"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48bf7ab591ee2eb745ab182821ee095564c3a59d5311f4fabf9ca276001a336c"
+metafile = true
