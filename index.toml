@@ -79,6 +79,11 @@ file = "mods/htm-1.1.15.jar"
 hash = "6af7f3066e9244a0ebe6f552e8bc61ccc246b1a8702f1cdf5a58052e1b605124"
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "c65c6af0b1ea619a0736c8de3c3126afa37145a60b7d5c0dd0cffa7ec353f754"
 metafile = true
