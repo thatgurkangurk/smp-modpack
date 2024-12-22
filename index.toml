@@ -129,6 +129,11 @@ hash = "6476fdee46143a2bd1ed7c140636d953b3e454c721d38026b383643ebace996d"
 metafile = true
 
 [[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "f34d1a33064cc71a9c2158dfc3d1f0029f109727277831d3e140f646606b1df6"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "078bcdf161d4c7d7a278fc3d65072bf367f4fad882d3a53faf2cd338d1731193"
 metafile = true
