@@ -99,6 +99,11 @@ hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
 file = "mods/polydecorations.pw.toml"
 hash = "6ea0c9779d4e605a3705d68e5bf6de06f6e4d43b088590fbb276111908639c03"
 metafile = true
