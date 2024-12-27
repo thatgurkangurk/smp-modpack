@@ -84,6 +84,11 @@ file = "mods/htm-1.1.15.jar"
 hash = "6af7f3066e9244a0ebe6f552e8bc61ccc246b1a8702f1cdf5a58052e1b605124"
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
 metafile = true
