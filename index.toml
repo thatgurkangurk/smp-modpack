@@ -50,6 +50,11 @@ hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "8d6953e79ed890486dfd960ebf8ede73dd9f25ed1b7300a611829ac725a9827a"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "d28a47cda29c0cf273387c254b4236f0ad65f35c9c90646e79b9faee158d5af6"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "f17daaee07fa693078844771c26a29811f78f55e9bff3d554165202a3aa5a821"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
 metafile = true
 
 [[files]]
