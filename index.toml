@@ -75,6 +75,11 @@ hash = "df22e7d2e96d87a5b4a6467a9345eeea5365fe57763f56aaa1d3944570b51d38"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+metafile = true
+
+[[files]]
 file = "mods/faewulf-itemrename.pw.toml"
 hash = "cefecf6c31ebc3c15f24bdd6ac45f5750d583a8f86f03c4fe4d9c774e32c8f1f"
 metafile = true
