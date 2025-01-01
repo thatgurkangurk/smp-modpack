@@ -30,11 +30,6 @@ hash = "25b45fbe068249c091b5d99ebebfb4bef65e7df575df737fb3e63e50888236e3"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "a3797a0b4f7cc12822d57a1660e039cf763ac5e9ef889d23994171b74c26a0c3"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
