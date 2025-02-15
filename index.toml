@@ -30,6 +30,11 @@ hash = "25b45fbe068249c091b5d99ebebfb4bef65e7df575df737fb3e63e50888236e3"
 metafile = true
 
 [[files]]
+file = "mods/camera-obscura.pw.toml"
+hash = "b03079136812afe86abea85aaf433fcc583af44ae757725320cc79cc97dcdb37"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/faewulf-itemrename.pw.toml"
 hash = "cefecf6c31ebc3c15f24bdd6ac45f5750d583a8f86f03c4fe4d9c774e32c8f1f"
+metafile = true
+
+[[files]]
+file = "mods/filament.pw.toml"
+hash = "a586d3bf110604bbaf4deb855151c15401516bc30f8ec60a9bd19b4b91a33bfd"
 metafile = true
 
 [[files]]
@@ -134,6 +144,11 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "347950b1eeca96af2b64d83309fde3d854f400cc90d343f0dbf28b6b08573800"
+metafile = true
+
+[[files]]
 file = "mods/polydecorations.pw.toml"
 hash = "6ea0c9779d4e605a3705d68e5bf6de06f6e4d43b088590fbb276111908639c03"
 metafile = true
@@ -174,6 +189,21 @@ hash = "078bcdf161d4c7d7a278fc3d65072bf367f4fad882d3a53faf2cd338d1731193"
 metafile = true
 
 [[files]]
+file = "mods/tsa-decorations.pw.toml"
+hash = "38037525742b6c9d4058b5da383ff2aed6a8634ccee226bf04b6ebe284df8125"
+metafile = true
+
+[[files]]
+file = "mods/tsa-planks.pw.toml"
+hash = "cbb8c2f56c74174acabc7d86288fdf550e51a9f04fbaf0d9a7795f012a21c5b4"
+metafile = true
+
+[[files]]
+file = "mods/tsa-stone.pw.toml"
+hash = "3be37d692bad3d43ba4c561583ae0ee12f93bee116303e97e71eb4f3bbefda56"
+metafile = true
+
+[[files]]
 file = "mods/universal-shops.pw.toml"
 hash = "d18a033e7b343fd5e46fee970ba96b42b64647b9bad1301b94f3c1011d782826"
 metafile = true
@@ -186,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "381054f652fffcbf77668c2786a576306d0db1a7e32ac79b3b0ddfa8c3b93cc8"
+metafile = true
+
+[[files]]
+file = "mods/visual-jukebox.pw.toml"
+hash = "53fc87b3bcc3e9e66857941d6507f130290e115a10141706557253af974914c0"
 metafile = true
 
 [[files]]

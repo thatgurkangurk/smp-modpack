@@ -1,0 +1,13 @@
+name = "filament"
+filename = "filament-0.13.1+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yANxwqSX/versions/fXONAfvm/filament-0.13.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "6615beefb1ccb1beec5ae9458d881357ebb9d409df35960087e02f9208d3fc5a8a0542097631a48f8571bec78f91e6f89f0e42d72a2e1b184eb896e79f64ed71"
+
+[update]
+[update.modrinth]
+mod-id = "yANxwqSX"
+version = "fXONAfvm"

@@ -1,0 +1,13 @@
+name = "Toms Server Additions: Stone!"
+filename = "tsa-stone-1.1.4+1.21.2-1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iLZabwvA/versions/bDIVSIKX/tsa-stone-1.1.4%2B1.21.2-1.21.4.jar"
+hash-format = "sha512"
+hash = "803c646dd1ac38344b85b5923db759ee645aac75cc0ef9065477df0655ab23e5ece64209948c9d67b55af10f1a376d4c3e434c0e2409e88f03fd2dd31d9c154d"
+
+[update]
+[update.modrinth]
+mod-id = "iLZabwvA"
+version = "bDIVSIKX"

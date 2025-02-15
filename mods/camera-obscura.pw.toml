@@ -1,0 +1,13 @@
+name = "Camera Obscura"
+filename = "camera-obscura-1.2.0+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RlBTYKIp/versions/OrgDkI8K/camera-obscura-1.2.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "ac2a9429e20d93362f8cea6928c04caaa8eac01f5e9c5641475d90b099663f0f648a26b0d29f1f5a2bde6a439fe988a5ec78765125f999a1b6f0df0ae0a3d32d"
+
+[update]
+[update.modrinth]
+mod-id = "RlBTYKIp"
+version = "OrgDkI8K"
