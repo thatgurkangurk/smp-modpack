@@ -154,6 +154,11 @@ hash = "6ea0c9779d4e605a3705d68e5bf6de06f6e4d43b088590fbb276111908639c03"
 metafile = true
 
 [[files]]
+file = "mods/polydex.pw.toml"
+hash = "3a012b8e93f448cadc7a9ca9619e62d7a90d21eeae67241910859e6a1c611ad9"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "647bf578621157f90070cde0fc4c9a386327a94cb0685f0d907662a8c82e4064"
 metafile = true
