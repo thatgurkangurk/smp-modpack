@@ -164,6 +164,16 @@ hash = "647bf578621157f90070cde0fc4c9a386327a94cb0685f0d907662a8c82e4064"
 metafile = true
 
 [[files]]
+file = "mods/purpurpacks-infinity-mending-bows.pw.toml"
+hash = "927a4d8e673d4c5b03655f879f108052086117dfdc794d779aad13b3976d99a2"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-infinity-on-crossbows.pw.toml"
+hash = "6bdf6c4162fdad26c175181173f5d869cef6c836a6c147d94adcfb1432278dbe"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
 metafile = true
