@@ -80,11 +80,6 @@ hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
 metafile = true
 
 [[files]]
-file = "mods/faewulf-itemrename.pw.toml"
-hash = "f3671afe85646279f62096e20cf880ff48a588fefab47f24b1f0d4fc8996db14"
-metafile = true
-
-[[files]]
 file = "mods/filament.pw.toml"
 hash = "ada0b975b9ccf22af04b1ee7811d6a51c63b334011997979707fc4fe9de7e4d3"
 metafile = true
@@ -129,18 +124,8 @@ hash = "1501bd53062aadf22ee899161eca902b780d72b5047549bf562d42cc1fc256b8"
 metafile = true
 
 [[files]]
-file = "mods/maintenancemode.pw.toml"
-hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "e94c47d7679c5a6a4a3deccaa7bba8f7c3961a70f6c03c32adc809d7135c87cc"
-metafile = true
-
-[[files]]
-file = "mods/packwiz-server-updater.pw.toml"
-hash = "347950b1eeca96af2b64d83309fde3d854f400cc90d343f0dbf28b6b08573800"
 metafile = true
 
 [[files]]
