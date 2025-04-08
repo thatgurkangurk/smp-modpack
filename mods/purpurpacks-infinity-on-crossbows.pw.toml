@@ -1,13 +1,13 @@
 name = "Infinity on Crossbows [PurpurPack]"
-filename = "purpurpacks-infinity-on-crossbows-2.1.jar"
+filename = "purpurpacks-infinity-on-crossbows-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rvzRe1CC/versions/OjPryp7s/purpurpacks-infinity-on-crossbows-2.1.jar"
+url = "https://cdn.modrinth.com/data/rvzRe1CC/versions/8IJGBCKD/purpurpacks-infinity-on-crossbows-2.2.jar"
 hash-format = "sha512"
-hash = "1e9224accee1d5cd6373fec09a66f42d503f01c59eb809416dea9b42f4f2974847da785cb1296b636cea02b67f012291f94da217c54dfb7b0ee342f8076020f2"
+hash = "884df8f81d768b3d28567c8290555ce4551cd7484a1e6803b4a7f6653c3790d746342bf6825db7e8fdecd03d1fa94c1e68dbcb35664924b60e3d787978cf18fa"
 
 [update]
 [update.modrinth]
 mod-id = "rvzRe1CC"
-version = "OjPryp7s"
+version = "8IJGBCKD"

@@ -1,13 +1,13 @@
 name = "BlossomEnderChest"
-filename = "blossom-ender-chest-2.0.10+1.20.6.jar"
+filename = "blossom-ender-chest-2.0.11+1.20.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/e73bw2Xv/versions/DR1iuGn1/blossom-ender-chest-2.0.10%2B1.20.6.jar"
+url = "https://cdn.modrinth.com/data/e73bw2Xv/versions/XmHCmOSs/blossom-ender-chest-2.0.11%2B1.20.6.jar"
 hash-format = "sha512"
-hash = "917771793bd6fefaab56cde402802d3a13fa9a6e195c7179c68bcfd69a238d1edb2ad83931d92d3148b3b1921d739a6c465d74d6cf615a7f4fdd5522237a2070"
+hash = "4e61823ce961d8c1ea6b871ba5f415c694bd791212587600548a5f6414cafb966734694913cec7d6a3dc6146a72e04624b5ee5a1d88a110f9c0d141d96483fa6"
 
 [update]
 [update.modrinth]
 mod-id = "e73bw2Xv"
-version = "DR1iuGn1"
+version = "XmHCmOSs"

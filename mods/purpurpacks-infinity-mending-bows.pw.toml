@@ -1,13 +1,13 @@
 name = "Infinity Mending Bows [PurpurPack]"
-filename = "purpurpacks-infinity-mending-bows-2.1.jar"
+filename = "purpurpacks-infinity-mending-bows-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NLzRxVcC/versions/MFrApZic/purpurpacks-infinity-mending-bows-2.1.jar"
+url = "https://cdn.modrinth.com/data/NLzRxVcC/versions/6TUFvcXO/purpurpacks-infinity-mending-bows-2.2.jar"
 hash-format = "sha512"
-hash = "b0460164dd30ecdca05a5220fb3a79e9ac803e5be0ea185ee493a2718fbb6b40d1c8b3a136addfc5c6224cdc45d04971f351d99cc0843bd623f79d34f112d3c0"
+hash = "ab486caaea15f2103ecced54f274680b74a7e41b48eca431efa35a4d297a6b8c0aa408765f4810246fe968a9caca7b003e5ddcb60303b377dc74032c93f44b1b"
 
 [update]
 [update.modrinth]
 mod-id = "NLzRxVcC"
-version = "MFrApZic"
+version = "6TUFvcXO"

@@ -1,13 +1,13 @@
 name = "Veinminer"
-filename = "veinminer-fabric-2.2.3.jar"
+filename = "veinminer-fabric-2.4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OhduvhIc/versions/a4XmJyKT/veinminer-fabric-2.2.3.jar"
+url = "https://cdn.modrinth.com/data/OhduvhIc/versions/VDHlG2JK/veinminer-fabric-2.4.2.jar"
 hash-format = "sha512"
-hash = "6f59c931a99e543c9d977f186f71b5f5b511420396b98f347a593148d2e23658387f99be09d800abf818e0e50a81a17daff30c4933667dd4722e836929a49154"
+hash = "04a8a079b64017fc04e24f8f22ee8b6fe46ce9c78ecedfb25fac99d4cfe78761901948fbc8eda9770cce944ecf93c9bafe793b7edb34b0c9e7e18322ae5392cc"
 
 [update]
 [update.modrinth]
 mod-id = "OhduvhIc"
-version = "a4XmJyKT"
+version = "VDHlG2JK"

@@ -1,13 +1,13 @@
 name = "Item Rename"
-filename = "item-rename-1.2.0+1.21.4.jar"
+filename = "item-rename-1.2.0+1.21.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/mCz2zJpj/versions/KJVZCcd6/item-rename-1.2.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/mCz2zJpj/versions/3t9NGx5Y/item-rename-1.2.0%2B1.21.3.jar"
 hash-format = "sha512"
-hash = "1811b4e31dce0796826341b71dca6364cb007fc141d53d93f596f4f4987db8098189bbf4fcbf46c533c18f46e44876aace548ec79794cb44e87ba2a030b3bddd"
+hash = "0dd7f2f620db8ea4cafe99fd143c17ed751cb6ab26740f059c4d96ca80b0bec8c3dac0ff7f3ec1d75f8908d7f271d31784a56487126adde569d1516fc90522a0"
 
 [update]
 [update.modrinth]
 mod-id = "mCz2zJpj"
-version = "KJVZCcd6"
+version = "3t9NGx5Y"
