@@ -30,18 +30,8 @@ hash = "07cb1ba8af69589c4762024430cbcc3c141602b07d194446cafe0bafa58377d5"
 metafile = true
 
 [[files]]
-file = "mods/camera-obscura.pw.toml"
-hash = "359add67a6f49aa8439bfa648d544769b094410741e416eb34aacc9f5561730a"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "81ee90c41a92e68384f96e8fa4ab01dbf74dc09be1fc78f6cebf013e362a5123"
-metafile = true
-
-[[files]]
-file = "mods/chunkyborder.pw.toml"
-hash = "0bc58a4d1bbf3b2202970be5463843dad3749f392bcd0fc4d136d391365dc2dc"
 metafile = true
 
 [[files]]
@@ -206,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "324b5730c0b047adb5c11356a4bc994d2b3b9a941b2f66f002a1e285c3a08e72"
-metafile = true
-
-[[files]]
-file = "mods/visual-jukebox.pw.toml"
-hash = "34d8ef15b806b95fef5df7a93af5546988e451f8a91a63d40bcde60f77636f40"
 metafile = true
 
 [[files]]
