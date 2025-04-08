@@ -100,8 +100,8 @@ hash = "a17726e971d7f49bcf07ee248437779e33c1577e4fe8ba4f6d71c85a4e91bb82"
 metafile = true
 
 [[files]]
-file = "mods/htm-1.1.15.jar"
-hash = "6af7f3066e9244a0ebe6f552e8bc61ccc246b1a8702f1cdf5a58052e1b605124"
+file = "mods/htm-1.1.16.jar"
+hash = "bafe9c38936dc6d03c0b07404f4fa6a56c20407dc8301697f9d18ec22d2e95dc"
 
 [[files]]
 file = "mods/invview.pw.toml"
