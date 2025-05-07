@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d811057ae42145c99ddd1a82cf493a398669f80dd2f0f9c204b7bd9f504a402d"
+hash = "a0d08473c0bd4d3873307800a8527edff2d10c7eccc8535ead68596dea2f1e19"
 metafile = true
 
 [[files]]
@@ -46,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "3b939fb166da2e472a70e5a492321710f8632d6b04689662e4ec49e8f126ace2"
+hash = "d574f462b237e7fda83f7fd19b17766cc797ed60b3bdb47051cb0c22d58345c4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
+hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
 metafile = true
 
 [[files]]
@@ -71,22 +71,27 @@ metafile = true
 
 [[files]]
 file = "mods/filament.pw.toml"
-hash = "ada0b975b9ccf22af04b1ee7811d6a51c63b334011997979707fc4fe9de7e4d3"
+hash = "a29fdce8436334b1ccc3a74c573accb9f42a23b53cb8c37613c22ac7b0fcf0be"
 metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "b9ccdada3af888348b8c8eb757ea3c528bd20db5f0beef533fd6c5eee651faa6"
+hash = "c66547cc176ee95508ab977f9eec6b8d7949a36b8ef77ef96edb0ced4b412bce"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "a17726e971d7f49bcf07ee248437779e33c1577e4fe8ba4f6d71c85a4e91bb82"
+hash = "6c1d7116227534860682b0b59c3b914e11d6d9ecbf1fb13320342f750f1c0ce9"
 metafile = true
 
 [[files]]
 file = "mods/htm-1.1.16.jar"
 hash = "bafe9c38936dc6d03c0b07404f4fa6a56c20407dc8301697f9d18ec22d2e95dc"
+
+[[files]]
+file = "mods/htm.pw.toml"
+hash = "fa4b4e228fb2dfb81ea7212e83e66f9d7dd28200063fda5fd3e73082b3ebe0be"
+metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
@@ -95,17 +100,17 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5a67e5e6aa5c39c9920a3293d70ff2a5a7b90e34299483dce5933e512b63bbf0"
+hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
 metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "2fc0692fac902c69309ed2b3fa14611be08afbba3e95c61afdbc5921b705a9f3"
+hash = "0e7fee374778706819cf519356461180ced29bab6dc9aee555fbdea85ccbecb2"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "b115b3ddfbbf93e2138d19aa14a7dab992fe2556c8abedb72c98956bf8859ade"
+hash = "669fdd864afc40a85e9ce48976b806f7fd2edad89037fa63bfe756839e3c6558"
 metafile = true
 
 [[files]]
@@ -130,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "20319a58e4fff910f920681d05ad11be788d95ee7f980f8f4f3c1a20b2437c95"
+hash = "341d2f9067d49415b929f6a848ca4557c9ce8a16f2f27de11db25b572d901089"
 metafile = true
 
 [[files]]
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/tsa-decorations.pw.toml"
-hash = "4a2fe026bb7627a68d341b4be521325567cad9e43e8c0d7ec223685dd35a7282"
+hash = "a3b97bca8279d4261a3639076ef5f618b23a1252ef6085ff826030b4c011aac0"
 metafile = true
 
 [[files]]
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "501c794c003af7ef8ab1786c1e74c913d1edfb95a694101fd3d0f7fb6e0113e6"
+hash = "1abcbf7c8204321b627659b2ff46c018872b793b20141ec6ab8eed8194122fb3"
 metafile = true
 
 [[files]]
@@ -200,5 +205,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "56552203cee80712c6dd8d69e6cddecae91086e1a83b63a1ffbe067c426c1733"
+hash = "33bf6291ef7d71d83b9c7ff6aa8286f8566adf3f77f78314bbf8021af930a8cb"
 metafile = true
